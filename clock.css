@@ -1,0 +1,12 @@
+body {
+  background-color: black;
+}
+.clock {
+  font-size: 100px;
+  font-weight: bold;
+  color: blueviolet;
+  text-align: center;
+}
+.clock:hover {
+  color: lightpink;
+}
